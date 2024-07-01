@@ -2,14 +2,14 @@
 body{
 	      background-color: #f8f8f8;
         }
-        h1{
+.book-library{
             text-align: center;
             padding: 10px;
             margin: 10px;
             background-color: #ffffff;
             box-shadow: 5px 5px 10px 2px rgba(213, 213, 213, 0.8);
         }
-        .book{
+.book{
             padding: 15px;
             margin: 10px;
             background-color: #ffffff;
