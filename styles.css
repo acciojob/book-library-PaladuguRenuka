@@ -3,6 +3,10 @@ body{
 	      background-color: #f8f8f8;
         }
 .book-library{
+	border: none;
+	border-radius: 10px;
+}
+h1{
             text-align: center;
             padding: 10px;
             margin: 10px;
@@ -25,10 +29,11 @@ img{
 	width: 99%;
     height: 20px;
     text-align: center;
-            color: white;
-            background-color: #2ecc71;
-            padding: 5px;
-            margin: 0px;
+    color: white;
+    background-color: #2ecc71;
+    padding: 5px;
+    margin: 0px;
+	border-radius: 4px;
 }
 .Author{
     color: #777777;
@@ -37,7 +42,7 @@ img{
     margin: 0px;
 	text-align: left;
 }
-h4{
+h2{
     padding: 0px;
     margin: 0px;
 	text-align: left;
