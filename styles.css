@@ -29,14 +29,14 @@ img{
 	width: 99%;
     height: 20px;
     text-align: center;
-    color: white;
-    background-color: #2ecc71;
+    color: rgb(255, 255, 255);
+    background-color: rgb(46, 204, 113);
     padding: 5px;
     margin: 0px;
 	border-radius: 4px;
 }
 .Author{
-    color: #777777;
+    color: rgb(119, 119, 119);
     background-color: #f8f8f8;
     padding: 0px;
     margin: 0px;
